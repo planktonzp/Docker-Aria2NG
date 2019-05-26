@@ -1,3 +1,1 @@
-https://odcn.top/2019/01/20/2144/
-
-Docker地址：https://hub.docker.com/r/oldiy/aria2-ui-ng
+感谢oldiy的项目，只是好久不更新 忍不住 自己造个轮子
